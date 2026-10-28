@@ -1,0 +1,19 @@
+{
+  "name": "Plinto",
+  "symbol": "PLINTO",
+  "description": "Plinto floor token. Half of every raise becomes a redeemable floor held in tokenized S&P 500 (SPYx). Any holder can burn PLINTO at any time for their pro-rata share of the vault, minus a 2% exit fee that stays behind and lifts the floor for everyone else. Floor = vault / supply, so every redemption and every trade raises it.",
+  "image": "https://raw.githubusercontent.com/FluffyZk/plinto-token-meta/c79c632086b74ef006c741fe1754a5b3e42d6ffc/logo-1024.png",
+  "external_url": "https://plinto.xyz",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/FluffyZk/plinto-token-meta/c79c632086b74ef006c741fe1754a5b3e42d6ffc/logo-1024.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://plinto.xyz"
+  }
+}
